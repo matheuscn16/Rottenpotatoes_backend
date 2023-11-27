@@ -13,36 +13,35 @@
 
 ## Sobre o Projeto
 
-Esse projeto se trata de uma colaboração dos alunos da Unimetrocamp, que consiste em um site onde os usuários são capazes de realizar a avaliação de seus filmes.
+Esse projeto se trata de uma colaboração dos alunos da Unimetrocamp, e consiste em um site onde os usuários são capazes de realizar a avaliação de seus filmes.
 
 ### Feito Em:
 
 * [Nodejs](https://nodejs.org/en/)
 
 
-
 <!-- GETTING STARTED -->
-## Comecando🚀
+## Começando🚀
 
-Para rodar esse projeto, voce precisa de um conhecimento minimo de JavaScript.
+Para rodar esse projeto, é necessário um pouco de conhecimento prévio de JavaScript.
 
 ### Requisitos
-* Node.js - version 20.10.0 ou acima, encontrado [aqui](https://nodejs.org/en/download/).
-* PostgresSQL - version 14.1 ou acima, veja como instalar com o docker [aqui](https://dev.to/shree_j/how-to-install-and-run-psql-using-docker-41j2)
-* Um editor de texto da suia preferencia, mas recomendamos: [Visual Studio Code](https://code.visualstudio.com/download)
-* Terminal de sua preferencia, mas recomendamos: [cmder](https://code.visualstudio.com/docs/editor/integrated-terminal#_can-i-use-cmders-shell-with-the-terminal-on-windows) se voce utiliza windows.
+* Node.js - versão 20.10.0 ou acima, encontrado [aqui](https://nodejs.org/en/download/).
+* PostgresSQL - versão 14.1 ou acima, veja como instalar utlizando o "Docker" [aqui](https://dev.to/shree_j/how-to-install-and-run-psql-using-docker-41j2)
+* Um editor de texto de sua preferência, mas recomendamos: [Visual Studio Code](https://code.visualstudio.com/download)
+* Terminal de sua preferência, caso utilize Windows recomendamos: [cmder](https://code.visualstudio.com/docs/editor/integrated-terminal#_can-i-use-cmders-shell-with-the-terminal-on-windows)
 
 ### Rodando o Projeto
 
-1. Na pasta raiz, rode no seu terminal o comando: ``npm install`.
-2. Quando o comando terminar voce tera que criar um arquivos `.env`.
-*PS:(Por seguranca o arquivo ```.env```nao esta no repositorio)*
-4. Tenha certeza que voce criou o banco de dados utilizando postfers para esse projeto.
-5. O conteudo dos arquivos deve seguir o exemplo do arquivo `.env-example`.
-6. No terminal do backend rode o seguinte comando: `npm run start`, se tudo estiver setado de forma correta voce deve ver `info: Server listening on port 3000 ` no terminal.
+1. Na pasta raiz, rode no seu terminal o comando: `npm install`.
+2. Quando o comando terminar crie um arquivo `.env`. <br>
+*PS:(Por seguranca o arquivo `.env` não esta no repositório)*<br>
+4. O Banco de dados deve ser criado em PostgreSQL.
+5. O conteúdo dos arquivos deve seguir o exemplo do arquivo `.env-example`.
+6. No terminal do Backend rode o seguinte comando: `npm run start`, se tudo estiver feito de forma correta você deve ver a linha `info: Server listening on port 3000 ` no terminal.
 
 ### Banco de Dados
-Se voce quiser dar uma olhada no esquema do Banco de Dados ele se encontra na pasta 'src/upgrades'. Na pasta estao todas as tabelas utilizadas no projeto.
+O esquema do Banco de Dados se encontra na pasta 'src/upgrades'. Lá estão todas as tabelas utilizadas no projeto.
 
 <!-- Exemplo uso -->
 ## Uso
