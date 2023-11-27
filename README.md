@@ -27,10 +27,10 @@ Esse projeto se trata de uma colaboração dos alunos da Unimetrocamp, que consi
 Para rodar esse projeto, voce precisa de um conhecimento minimo de JavaScript.
 
 ### Requisitos
-* Node.js - version 20.10.0 ou acima, encontradof [aqui](https://nodejs.org/en/download/).
+* Node.js - version 20.10.0 ou acima, encontrado [aqui](https://nodejs.org/en/download/).
 * PostgresSQL - version 14.1 ou acima, veja como instalar com o docker [aqui](https://dev.to/shree_j/how-to-install-and-run-psql-using-docker-41j2)
 * Um editor de texto da suia preferencia, mas recomendamos: [Visual Studio Code](https://code.visualstudio.com/download)
-* Terminal de sua preferencia, mas recomendamos: [cmder](https://code.visualstudio.com/docs/editor/integrated-terminal#_can-i-use-cmders-shell-with-the-terminal-on-windows) if you use windows
+* Terminal de sua preferencia, mas recomendamos: [cmder](https://code.visualstudio.com/docs/editor/integrated-terminal#_can-i-use-cmders-shell-with-the-terminal-on-windows) se voce utiliza windows.
 
 ### Rodando o Projeto
 
