@@ -11,32 +11,6 @@
   </p>
 </p>
 
-
-
-<!--Tabela de conteúdo -->
-<details open="open">
-  <summary>Sumário</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
-      <ul>
-        <li><a href="#made-with">Feito com:</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#starting">Comecando</a>
-      <ul>
-        <li><a href="#requirements">Requerimentos</a></li>
-        <li><a href="#running-the-project">Rodando o Projeto</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage-example"> Uso</a></li>
-    <li><a href="#Integrantes">Integrantes</a></li>
-    <li><a href="#Recursos">Recursos</a></li>
-  </ol>
-</details>
-
-
 ## Sobre o Projeto
 
 Esse projeto se trata de uma colaboração dos alunos da Unimetrocamp, que consiste em um site onde os usuários são capazes de realizar a avaliação de seus filmes.
